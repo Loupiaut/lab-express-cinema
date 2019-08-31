@@ -1,26 +1,22 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
 
 a {
-  color: #00b7ff;
-}
+  color: #00b7ff; }
 
 #background {
   height: 100vh;
   width: 100%;
   background: url("../images/cinema.jpg") no-repeat;
-  background-size: cover;
-}
+  background-size: cover; }
 
 .index_title {
   color: white;
   font-size: 6rem;
   position: relative;
   left: 60%;
-  top: 60px;
-}
+  top: 60px; }
 
 .jeronimo {
   position: relative;
@@ -31,18 +27,18 @@ a {
   padding: 20px 30px;
   background: white;
   top: 50px;
-  text-decoration: none;
-}
+  text-decoration: none; }
 
 .wrapper {
   display: flex;
-  flex-flow: wrap;
-}
+  flex-flow: wrap; }
 
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 10px;
-}
+  margin: 10px; }
+
+/*# sourceMappingURL=style.css.map */
+
 /*# sourceMappingURL=style.css.map */
